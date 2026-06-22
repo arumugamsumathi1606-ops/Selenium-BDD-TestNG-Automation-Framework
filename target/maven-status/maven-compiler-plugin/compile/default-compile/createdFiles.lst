@@ -1,0 +1,6 @@
+base\BaseTest.class
+utils\ConfigReader.class
+pages\ProductPage.class
+pages\LoginPage.class
+utils\DriverFactory.class
+pages\CartPage.class

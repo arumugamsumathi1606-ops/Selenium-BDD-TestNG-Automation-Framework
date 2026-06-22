@@ -1,0 +1,5 @@
+tests\CartTest.class
+stepdefinitions\LoginSteps.class
+runners\TestRunner.class
+tests\LoginTest.class
+tests\ProductTest.class
